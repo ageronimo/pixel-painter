@@ -1,0 +1,31 @@
+#red {
+	background-color: red;
+}
+
+#blue {
+	background-color: blue;
+}
+
+#green {
+	background-color: green;
+}
+
+#purple {
+	background-color: purple;
+}
+
+#black {
+	background-color: black;
+}
+
+.palette {
+	width: 15px;
+	height: 15px;
+	border: 2px solid black;
+}
+
+.canvas {
+	width: 15px;
+	height: 15px;
+	border: 2px solid black;
+}
